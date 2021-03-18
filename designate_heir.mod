@@ -5,6 +5,6 @@ tags={
 	"Gameplay"
 }
 name="Designate Heir"
-supported_version="1.2.2"
-path="C:/Users/samme/Documents/Paradox Interactive/Crusader Kings III/mod/designate_heir"
+supported_version="1.3.0"
+path="C:/Users/samme/OneDrive - University of Southern California/Documents/Paradox Interactive/Crusader Kings III/mod/designate_heir"
 remote_file_id="2324305618"
